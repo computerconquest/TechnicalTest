@@ -78,6 +78,7 @@ This is a pretty simple app. We've only got one main component at the moment and
   - The badges at the top were intended to display the top clients/products
   - What sort of user experience improvements would you make?
 - Describe how the chart works. (No tricks here, just basics of how it figures out how tall the bars should be.)
+- Send us a screenshot of the updated version.
 
 Feel free to add any comments you want to the bottom of this or send it to us at the end.
 
