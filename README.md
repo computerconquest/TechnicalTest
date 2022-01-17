@@ -30,10 +30,11 @@ We'd like you to timebox this. Your time is important. We normally budget about 
 - Open a Terminal in VS Code
 
 ```
-    cd ClientData
+    cd ClientApp
     npm install
     cd ..
     dotnet run
+    Browse to http://localhost:5000/
 ```
 
 # Application Structure
