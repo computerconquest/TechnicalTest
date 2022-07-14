@@ -93,7 +93,7 @@ Use whatever tools/Google-fu you'd normally use. Also, don't beat your head on y
 
 # When you're done
 
-Remove the node_modules folder and zip everything up and send it to careers@ccqltd.com
+Remove the node_modules folder, zip everything up and send it to careers@ccqltd.com
 
 
 Didn't finish everything? Send what you've done, 2 hours isn't a ton of time and we'd like to see what you did!
