@@ -31,7 +31,7 @@ We'd like you to timebox this. Your time is important. We normally budget about 
 
 ```
     cd ClientApp
-    npm install --force
+    npm install
     cd ..
     dotnet run
     Browse to http://localhost:5001/
