@@ -31,10 +31,10 @@ We'd like you to timebox this. Your time is important. We normally budget about 
 
 ```
     cd ClientApp
-    npm install
+    npm install --force
     cd ..
     dotnet run
-    Browse to http://localhost:5000/
+    Browse to http://localhost:5001/
 ```
 
 Please note that the dotnet command will give some Microsoft.AspNetCore.SpaServices failures
