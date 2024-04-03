@@ -37,6 +37,9 @@ We'd like you to timebox this. Your time is important. We normally budget about 
     Browse to http://localhost:5000/
 ```
 
+Please note that the dotnet command will give some Microsoft.AspNetCore.SpaServices failures
+These can be ignored
+
 # Application Structure
 
 ## Backend
