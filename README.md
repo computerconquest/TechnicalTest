@@ -21,10 +21,10 @@ We'd like you to timebox this. Your time is important. We normally budget about 
 ## Requirements
 
 - NodeJS https://nodejs.org/en/ 
-(project is known to work with node version v10.24.1)
+(project is known to work with node version v18.20.0)
 - NodeJS version can be managed with nvm: [nvm-sh](https://github.com/nvm-sh/nvm), [windows](https://github.com/coreybutler/nvm-windows/releases)
-- DotNet 5 SDK https://dotnet.microsoft.com/download/dotnet/5.0
-- Angular 11 CLI https://angular.io/cli
+- DotNet 8 SDK https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+- Angular CLI https://angular.io/cli
 - Visual Studio Code (Or Visual Studio) https://code.visualstudio.com/
 
 ## Running
@@ -33,7 +33,7 @@ We'd like you to timebox this. Your time is important. We normally budget about 
 
 ```
     cd ClientApp
-    npm install
+    npm install (--force might be needed)
     cd ..
     dotnet run
     Browse to http://localhost:5001/
