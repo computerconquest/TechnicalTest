@@ -2,9 +2,12 @@
 // `ng build ---prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+// Detect protocol used. Will be https for VS code, http for Visual Studio
+const protocol = window.location.protocol; 
+
 export const environment = {
   production: false,
-  apiUri: "https://localhost:5001/api"
+  apiUri: `${protocol}//localhost:5001/api`
 };
 
 /*
