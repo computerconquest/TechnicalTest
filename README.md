@@ -20,7 +20,9 @@ We'd like you to timebox this. Your time is important. We normally budget about 
 
 ## Requirements
 
-- NodeJS https://nodejs.org/en/
+- NodeJS https://nodejs.org/en/ 
+(project is known to work with node version v10.24.1)
+- NodeJS version can be managed with nvm: [nvm-sh](https://github.com/nvm-sh/nvm), [windows](https://github.com/coreybutler/nvm-windows/releases)
 - DotNet 5 SDK https://dotnet.microsoft.com/download/dotnet/5.0
 - Angular 11 CLI https://angular.io/cli
 - Visual Studio Code (Or Visual Studio) https://code.visualstudio.com/
@@ -34,8 +36,11 @@ We'd like you to timebox this. Your time is important. We normally budget about 
     npm install
     cd ..
     dotnet run
-    Browse to http://localhost:5000/
+    Browse to http://localhost:5001/
 ```
+
+Please note that the dotnet command will give some Microsoft.AspNetCore.SpaServices failures
+These can be ignored
 
 # Application Structure
 
